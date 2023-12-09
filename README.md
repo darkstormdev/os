@@ -1,4 +1,4 @@
-![tests](https://github.com/darkstormdev/os/actions/workflows/code.yml/badge.svg?branch=testing)
+![tests](https://github.com/darkstormdev/os/actions/workflows/code.yml/badge.svg)
 # About
 This operating system is based on [Philipp Oppermann's blog-os](https://github.com/phil-opp/blog_os). It's written specifically for the raspberry pi
 # How to install
