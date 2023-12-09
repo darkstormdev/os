@@ -1,4 +1,5 @@
 ![tests](https://github.com/darkstormdev/os/actions/workflows/code.yml/badge.svg)
+[![DeepSource](https://app.deepsource.com/gh/darkstormdev/os.svg/?label=active+issues&show_trend=true&token=dREK-rRtTDTY3u3wkj3nuPGo)](https://app.deepsource.com/gh/darkstormdev/os/)
 # About
 This operating system is based on [Philipp Oppermann's blog-os](https://github.com/phil-opp/blog_os). It's written specifically for the raspberry pi
 # How to install
